@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **rishimishra160206@gmail.com**
 
--✉ Open to collaboraing on projects.
+- ✉ Open to collaboraing on projects.
 
--🤝 I love to make new connections.
+- 🤝 I love to make new connections.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
