@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Rishi Mishra</h1>
+<h1 align="center">Hi 👋, I'm Rishi Mishra</h1> 
 <h3 align="center">A passionate Result driven Machine Learning Engineer from India</h3>
 
 
